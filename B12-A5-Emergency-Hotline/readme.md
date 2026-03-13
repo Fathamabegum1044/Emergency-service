@@ -163,3 +163,20 @@ How to get current local time in js
 ---
 
 # Let's Code and Achieve your Dream 🎯
+<div class="space-y-3">
+
+        <div class="flex justify-between text-sm bg-gray-100 p-2 rounded">
+          <div>
+            জাতীয় জরুরি সেবা
+            <p class="text-gray-400 text-xs">999</p>
+          </div>
+          <span class="text-gray-400">11:36 AM</span>
+        </div>
+
+        <div class="flex justify-between text-sm bg-gray-100 p-2 rounded">
+          <div>
+            অ্যাম্বুলেন্স
+            <p class="text-gray-400 text-xs">1994-999999</p>
+          </div>
+          <span class="text-gray-400">11:36 AM</span>
+        </div>
